@@ -1,4 +1,3 @@
-﻿## PhD Essay 3 — Trade Policy & Environmental Goods
 # PhD Essay 3 — Trade Policy & Emerging Environmental Goods
 
 **Research question.** What is the impact of **trade policy**—both **tariffs** and **non-tariff measures (NTMs)**—on an **emerging basket of environmental goods** (low-carbon tech: EVs, batteries, hydrogen, solar PV, wind, circular/e-waste, etc.)?
